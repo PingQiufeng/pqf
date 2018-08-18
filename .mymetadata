@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="esc"
+  id="myeclipse.1527571137196"
+  context-root="/esc"
+  j2ee-spec="5.0"
+  archive="esc.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
